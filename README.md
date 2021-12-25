@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AbhinavSingh111
 - 👀 I’m interested in Android ,python , java
 - 🌱 I’m currently learning Android App Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me at singh111abhinav@gmail.com
 
 <!---
