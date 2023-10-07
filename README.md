@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhinav Singh</h1>
+<h1 align="center">Hi 👋, I'm Abhinav</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
 - 🔭 I’m currently working on [a Django project](https://github.com/AbhinavSingh111/LittleLemon)
