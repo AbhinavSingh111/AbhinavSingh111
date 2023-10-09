@@ -30,5 +30,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavsingh111&show_icons=true&locale=en&layout=compact" alt="abhinavsingh111" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavsingh111&" alt="abhinavsingh111" /></p>
-<p><a href="https://www.holopin.io/@abhinavsingh111#badges" arget="_blank" rel="noreferrer"><img align="center" src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" alt="badge" width="100" height="100"/></a><a href="https://www.holopin.io/@abhinavsingh111#badges" arget="_blank" rel="noreferrer"><img align="center" src="https://assets.holopin.io/hf2023levels/level0-red-0-0-0.webp" alt="badge" width="100" height="100"/></a></p>
+<p><a href="https://www.holopin.io/@abhinavsingh111#badges" arget="_blank" rel="noreferrer"><img align="center" src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" alt="badge" width="100" height="100"/></a><a href="https://www.holopin.io/@abhinavsingh111#badges" arget="_blank" rel="noreferrer"><img align="center" src="https://assets.holopin.io/hf2023levels/level0-red-0-0-0.webp" alt="badge" width="100" height="100"/></a>
+  <a href="https://www.holopin.io/@abhinavsingh111#badges" arget="_blank" rel="noreferrer"><img align="center" src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG15cWdyMGUwMjI1enV6amdxZmYwbmhsIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="badge" width="100" height="100"/></a>
+</p>
 
